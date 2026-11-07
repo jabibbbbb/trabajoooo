@@ -65,4 +65,5 @@ while True:
         break
 
     else:
-        print("Opcion no valida. Intente nuevamente.")
+        print("Opcion no valida. Intente nuevamente soy la polla con cebolla.")
+
